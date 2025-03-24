@@ -63,7 +63,7 @@ def suggest_questions(job_description, resume_text):
     return response.text.split('\n')
 
 # Streamlit UI
-st.title("ResumeMatch AI - Powered by Google Gemini")
+st.title("SkillSync AI")
 
 # Input job description
 job_description = st.text_area("Paste Job Description Here", height=200)
