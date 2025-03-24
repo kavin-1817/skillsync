@@ -1,1 +1,3 @@
-pip install google-generativeai PyPDF2 streamlit
+google-generativeai 
+PyPDF2
+streamlit
